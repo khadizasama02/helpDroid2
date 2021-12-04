@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "809616724444",
+    "project_id": "helpdroid-e4c1e",
+    "storage_bucket": "helpdroid-e4c1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809616724444:android:80e225436f739b9addff19",
+        "android_client_info": {
+          "package_name": "com.example.helpdroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809616724444-roscq5oonardgg4aqenc14cjotdgporv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.helpdroid",
+            "certificate_hash": "251fe1006178186a8aaef25f4dc8c8e30202a9bc"
+          }
+        },
+        {
+          "client_id": "809616724444-anopppkqg2gl67fk4kket9efgf8as67a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApIc-pWTh2RMSYZ2RDtkrcvclMdh7hK5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809616724444-anopppkqg2gl67fk4kket9efgf8as67a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HelpDroid</string>
+
+    <string-array name="divisionName">
+        <item>Chittagong</item>
+        <item>Dhaka</item>
+        <item>Rajshahi</item>
+        <item>Khulna</item>
+        <item>Barisal</item>
+        <item>Mymensingh</item>
+        <item>Rangpur</item>
+        <item>Sylhet</item>
+    </string-array>
+</resources>
